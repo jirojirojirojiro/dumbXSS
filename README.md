@@ -20,7 +20,7 @@ Welcome to the XSS Vulnerability Tester, a wicked tool designed to wreak havoc b
 1. Create a file named `urls.txt` and fill it with the URLs of the websites you want to test, with each URL on a new line. Choose your targets wisely, for they shall bear the brunt of your malicious intentions.
 2. Execute the script using the following command:
 
-      python3 xss_vulnerability_tester.py
+      python xss_vulnerability_tester.py
 
 3. If prompted, choose whether to enable verbose mode and witness the detailed aftermath of your exploits (y/n). Verbose mode reveals the dark secrets of the requests made to the unsuspecting websites.
 4. The script will test each URL from the `urls.txt` file, injecting wicked payloads into the unsuspecting web forms. It shall then reveal the vulnerabilities found, exposing the weaknesses of those who dare underestimate your power.
